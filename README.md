@@ -20,6 +20,7 @@ This repository provides a Python script to visualize and compare the performanc
 ```
 summary-performance-comparison/
 ├── performance_comparison.py
+├── split_story_model_names.py
 ├── metrics/
 │   ├── Model_Performance.xlsx
 │   └── Model_Performance_Updated.xlsx
